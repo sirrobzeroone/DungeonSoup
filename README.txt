@@ -74,10 +74,9 @@ Version 1.0: Broth Soup
 ---------------------
 -- Texture Summary --
 ---------------------
-
-Initial Conversion to Minetest and Addition/Creation of Missing Tiles and Clean up - Sirrobzeroone 
+Sirrobzeroone - Creation of Textures and Editing of below
  
-Dungeon Crawl Soup Textures - Various Artists
+Various Artists - Dungeon Crawl Stone Soup Textures
 https://opengameart.org/content/dungeon-crawl-32x32-tiles
 			
 Denzis - Various Tiles
@@ -100,6 +99,9 @@ https://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg
 	
 Blueberry Icon - Glitch	
 https://opengameart.org/content/cc0-food-icons
+
+Ethereal Illumishroom - Rubberduck
+https://opengameart.org/content/simple-glitch-tileset
 
 ----------------------------------------------------------
 -- Notes well for me or anyone else who might need them --
