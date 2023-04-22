@@ -34,34 +34,35 @@ texture or pixel artist like my programming I just dabble so don't expect pro wo
 --------------------------
 -- Current Mods Covered --
 --------------------------
-I have tried to take a mod centric approach to textures rather than a game centric 
-approach. Given all games are just a groups of mods I'm hoping over time through
-re-use and filling in the gaps I can cover many games by covering there mods.
+The below isn't a very large list of mods but to cover these requires around 1400 images,
+I will keep working but it wont be a fast process.
 
-The below isn't a very large list of mods but to cover these requires around 1400 images
++--------------+------------------+-------------+-----------------+-------------+
+| 3d_armor**   | 3d_armor_shields | awards*     | basic_materials | bedrock     |
++--------------+------------------+-------------+-----------------+-------------+
+| bedrock2     | beds_bed         | binoculars  | boats           | bonemeal    |
++--------------+------------------+-------------+-----------------+-------------+
+| bones        | buckets          | butterflies | carts           | creative    |
++--------------+------------------+-------------+-----------------+-------------+
+| default      | doors            | dye         | ethereal        | farming     |
++--------------+------------------+-------------+-----------------+-------------+
+| farming_redo | fire             | fireflies   | flowers         | itemframes  |
++--------------+------------------+-------------+-----------------+-------------+
+| keys         | map              | menu        | minimap         | mobs_animal |
++--------------+------------------+-------------+-----------------+-------------+
+| mobs_redo    | moreblocks       | moreores    | nextgen_bedrock | pbj_pup     |
++--------------+------------------+-------------+-----------------+-------------+
+| pigiron      | player_api       | protector   | screwdriver     | stairs      |
++--------------+------------------+-------------+-----------------+-------------+
+| sun_moon     | tnt              | vessels     | wool            | worldedit   |
++--------------+------------------+-------------+-----------------+-------------+
+| xpanes       |                  |             |                 |             |
++--------------+------------------+-------------+-----------------+-------------+
 
-+-----------------+------------------+-----------------+--------------+-------------+
-| 3d_armor        | 3d_armor_shields | basic_materials | bedrock      | bedrock2    |
-+-----------------+------------------+-----------------+--------------+-------------+
-| beds_bed        | binoculars       | boats           | bonemeal     | bones       |
-+-----------------+------------------+-----------------+--------------+-------------+
-| buckets         | butterflies      | carts           | creative     | default     |
-+-----------------+------------------+-----------------+--------------+-------------+
-| doors           | dye              | farming         | farming_redo | fire        |
-+-----------------+------------------+-----------------+--------------+-------------+
-| fireflies       | flowers          | keys            | map          | menu        |
-+-----------------+------------------+-----------------+--------------+-------------+
-| minimap         | mobs_animal      | mobs_redo       | moreblocks   | moreores    |
-+-----------------+------------------+-----------------+--------------+-------------+
-| nextgen_bedrock | pbj_pup          | player_api      | protector    | screwdriver |
-+-----------------+------------------+-----------------+--------------+-------------+
-| stairs          | tnt              | vessels         | wool         | worldedit   |
-+-----------------+------------------+-----------------+--------------+-------------+
-| xpanes          |                  |                 |              |             |
-+-----------------+------------------+-----------------+--------------+-------------+ 
-
-awards is also covered although I supplied those textures to the awards mod directly long 
+* awards is covered although I supplied those textures to the awards mod directly long 
 ago, I do need to make some new ones to cover new awards.
+
+** 3d_armor, curently missing nether armor
 
 ----------------------
 -- Release versions --
@@ -102,6 +103,9 @@ https://opengameart.org/content/cc0-food-icons
 
 Ethereal Illumishroom - Rubberduck
 https://opengameart.org/content/simple-glitch-tileset
+
+Ethereal Lemon and Apple - ScratchIO
+https://opengameart.org/content/2d-fruits
 
 ----------------------------------------------------------
 -- Notes well for me or anyone else who might need them --
