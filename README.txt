@@ -26,6 +26,12 @@ version to a point where I think it will be useful/usable. I dubbed this first
 version Broth Soup edition to show its in my mind minimal coverage of common mods
 and textures but usable and hopefully tasty :).
 
+Please feel free to use any of the textures in this texture package as placeholders for
+any mods your creating. I know some people (myself included) feel badly when using 
+textures from a released texture pack even if they are cc0 - so use these how ever
+you like for your own mods to save time and effort during development of your mod,
+down scaling from 32 to 16 is far easier as well. 
+
 There is some slight sylistic conflicts and you'll find some textures better than 
 others (lack of skill/inspiration). There are several I want to rework but at the 
 moment my focus is getting a high coverage of mods with similar look/feel. I am no 
@@ -62,7 +68,7 @@ I will keep working but it wont be a fast process.
 * awards is covered although I supplied those textures to the awards mod directly long 
 ago, I do need to make some new ones to cover new awards.
 
-** 3d_armor, curently missing nether armor
+** 3d_armor, curently missing nether armor and re-inforced shields
 
 ----------------------
 -- Release versions --
