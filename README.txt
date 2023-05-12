@@ -113,6 +113,10 @@ https://opengameart.org/content/simple-glitch-tileset
 Ethereal Lemon and Apple - ScratchIO
 https://opengameart.org/content/2d-fruits
 
+Cherrys - Tiny Speck
+https://opengameart.org/node/20149
+
+
 ----------------------------------------------------------
 -- Notes well for me or anyone else who might need them --
 ----------------------------------------------------------
